@@ -1,8 +1,8 @@
 # abdulrahman-al-haleme
-### I graduated from ** Al Balqa Applied University **.
-### Specialization in ** Communication and ^ Computer ^ Networks Engineering  **
+### I graduated from **Al Balqa Applied University**.
+### Specialization in **Communication and ComputerNetworks Engineering**
 
-## * rogramming languages *:
+## *programming languages*:
 
 + html
 + css
